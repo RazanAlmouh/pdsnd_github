@@ -20,7 +20,7 @@ def get_filters():
 
 
     while True:
-        city = input('\nWhich city would you like to filter by? New York City, Chicago or Washington? \n').lower()
+        city = input('\nWhich city would you like to filter by? New York City, Chicago or Washington? \n').title()
         if city not in CITY_DATA.keys():
             print('Sorry, I can\'t catch this. Try again please.')
             continue
@@ -30,7 +30,7 @@ def get_filters():
     # TO DO: get user input for month (all, january, february, ... , june)
 
     while True:
-        month = input('\nWhich month would you like to filter by? January, February, March, April, May, June or enter \'all\' if you do not have any preference?\n').lower()
+        month = input('\nWhich month would you like to filter by? January, February, March, April, May, June or enter \'all\' if you do not have any preference?\n').title()
         if month not in ('January', 'February', 'March', 'April', 'May', 'June', 'All'):
             print('Sorry, I can\'t catch that. Try again please.')
             continue
@@ -40,7 +40,7 @@ def get_filters():
     # TO DO: get user input for day of week (all, monday, tuesday, ... sunday)
 
     while True:
-        day = input('\nAre you looking for a particular day? If so, enter the day as follows: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or enter \'all\' if you do not have any preference.\n' ).lower()
+        day = input('\nAre you looking for a particular day? If so, enter the day as follows: Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday or enter \'all\' if you do not have any preference.\n' ).title()
         if day not in ('Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday', 'All'):
             print('Sorry, I can\'t catch that. Try again.')
             continue
