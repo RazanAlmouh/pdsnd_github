@@ -10,3 +10,6 @@ this project is designed for three cities(new york,  chicago , washington) filte
 bikeshare.py , 3 csv files
 ### Credits
 credit to https://github.com/Aritra96/bikeshare-project.git
+
+## dedication 
+this project is dedicated to hisham abonjim
