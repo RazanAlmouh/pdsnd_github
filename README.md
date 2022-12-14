@@ -12,6 +12,6 @@ bikeshare.py , 3 csv files for three cities
 credit to https://github.com/Aritra96/bikeshare-project.git
 
 ## dedication 
-this project is dedicated to hisham L. abonjim
+this project is dedicated to my husband hisham L. abonjim
 ## credits
 to my husband hisham
