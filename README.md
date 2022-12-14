@@ -14,4 +14,4 @@ credit to https://github.com/Aritra96/bikeshare-project.git
 ## dedication 
 this project is dedicated to my husband hisham L. abonjim
 ## credits
-to my husband hisham
+credit to my husband hisham lafy
