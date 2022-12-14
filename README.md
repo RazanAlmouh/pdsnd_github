@@ -3,11 +3,11 @@
 ### Date created
 14\12\2022
 ### Project Title
-bikeshare project
+bikeshare project by python
 ### Description
 this project is designed for three cities(new york,  chicago , washington) filtered by month, weeks, and days. it's created for udacity's project for data science.
 ### Files used
-bikeshare.py , 3 csv files
+bikeshare.py , 3 csv files for three cities
 ### Credits
 credit to https://github.com/Aritra96/bikeshare-project.git
 
